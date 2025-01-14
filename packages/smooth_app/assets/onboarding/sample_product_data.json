@@ -330,7 +330,8 @@
       ],
       "brands" : "Open Food Facts",
       "categories_tags_fr" : [
-         "en:tinned-potatoes"
+         "Plats préparés",
+         "Soupes"
       ],
       "code" : "093270067481501",
       "ecoscore_data" : {
@@ -583,6 +584,7 @@
          "agribalyse" : {
             "warning" : "missing_agribalyse_match"
          },
+         "grade" : "unknown",
          "missing" : {
             "agb_category" : 1
          },
@@ -619,7 +621,6 @@
          "status" : "unknown"
       },
       "ecoscore_grade" : "unknown",
-      "ecoscore_score" : 122,
       "environment_impact_level_tags" : [],
       "image_front_small_url" : "https://images.openfoodfacts.org/images/products/932/700/674/81501/front_en.359.200.jpg",
       "image_front_url" : "https://images.openfoodfacts.org/images/products/932/700/674/81501/front_en.359.400.jpg",
@@ -1035,7 +1036,7 @@
                {
                   "element_type" : "text",
                   "text_element" : {
-                     "html" : "\n\n    \n        \n            <p>Elements that indicate the product is in the 3 - Processed foods group:</p>\n            <ul>\n            \n                <li>Ingredient: Salt</li>\n            \n            </ul>\n        \n    \n\n"
+                     "html" : "\n\n    \n        \n            <p>Elements that indicate the product is in the 3 - Processed foods group:</p>\n            <ul>\n            \n                <li>Category: Meals</li>\n            \n                <li>Ingredient: Salt</li>\n            \n            </ul>\n        \n    \n\n"
                   }
                },
                {
@@ -1552,6 +1553,12 @@
                            "text" : "As sold<br>per serving (115g)",
                            "text_for_small_screens" : "per serving",
                            "type" : "text"
+                        },
+                        {
+                           "column_group_id" : "comparisons",
+                           "shown_by_default" : true,
+                           "text" : "Compared to: Soups",
+                           "type" : "text"
                         }
                      ],
                      "id" : "nutrition_facts_table",
@@ -1568,6 +1575,10 @@
                               },
                               {
                                  "text" : "138 kj<br>(67 kcal)"
+                              },
+                              {
+                                 "evaluation" : "good",
+                                 "text" : "-70%"
                               }
                            ]
                         },
@@ -1583,6 +1594,10 @@
                               },
                               {
                                  "text" : "0.575 g"
+                              },
+                              {
+                                 "evaluation" : "good",
+                                 "text" : "-79%"
                               }
                            ]
                         },
@@ -1598,6 +1613,10 @@
                               },
                               {
                                  "text" : "0.23 g"
+                              },
+                              {
+                                 "evaluation" : "good",
+                                 "text" : "-72%"
                               }
                            ]
                         },
@@ -1613,6 +1632,10 @@
                               },
                               {
                                  "text" : "0.46 g"
+                              },
+                              {
+                                 "evaluation" : "good",
+                                 "text" : "-73%"
                               }
                            ]
                         },
@@ -1628,6 +1651,9 @@
                               },
                               {
                                  "text" : "4.6 g"
+                              },
+                              {
+                                 "text" : "-71%"
                               }
                            ]
                         },
@@ -1643,6 +1669,10 @@
                               },
                               {
                                  "text" : "3.45 g"
+                              },
+                              {
+                                 "evaluation" : "good",
+                                 "text" : "+175%"
                               }
                            ]
                         },
@@ -1658,6 +1688,10 @@
                               },
                               {
                                  "text" : "0.575 g"
+                              },
+                              {
+                                 "evaluation" : "good",
+                                 "text" : "-75%"
                               }
                            ]
                         },
@@ -1673,6 +1707,10 @@
                               },
                               {
                                  "text" : "1.15 g"
+                              },
+                              {
+                                 "evaluation" : "bad",
+                                 "text" : "-70%"
                               }
                            ]
                         },
@@ -1688,6 +1726,9 @@
                               },
                               {
                                  "text" : "65 %"
+                              },
+                              {
+                                 "text" : ""
                               }
                            ]
                         }
