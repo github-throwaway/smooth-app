@@ -1,5 +1,17 @@
 # Changelog
 
+## [4.19.0](https://github.com/openfoodfacts/smooth-app/compare/v4.18.0...v4.19.0) (2025-01-15)
+
+
+### Features
+
+* Editable brands ([#6203](https://github.com/openfoodfacts/smooth-app/issues/6203)) ([ed9ee6b](https://github.com/openfoodfacts/smooth-app/commit/ed9ee6bf03902e89177aefafc5eb44e1330667f1))
+
+
+### Bug Fixes
+
+* Fix issues with the menu on lists ([#6202](https://github.com/openfoodfacts/smooth-app/issues/6202)) ([29bc107](https://github.com/openfoodfacts/smooth-app/commit/29bc10768f0e18bbc3f092653abb3b87dab39aa8))
+
 ## [4.18.0](https://github.com/openfoodfacts/smooth-app/compare/v4.17.1...v4.18.0) (2025-01-13)
 
 
